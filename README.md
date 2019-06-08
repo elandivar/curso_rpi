@@ -1,1 +1,1 @@
-# curso_rpi
+# curso_raspberry_arduino
